@@ -1,2 +1,2 @@
 # ReclutamientoBit2Bit
-Resultado ejercicio
+ Resultado actividad
